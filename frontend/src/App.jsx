@@ -8,7 +8,7 @@ import { CartProvider } from './contexts/CartContext';
 
 // Layout
 
-import Navbar from './components/layout/tempNavbar';
+import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 
 // Pages
