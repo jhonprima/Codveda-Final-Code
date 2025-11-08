@@ -7,7 +7,8 @@ import { AuthProvider } from './contexts/AuthContext';
 import { CartProvider } from './contexts/CartContext';
 
 // Layout
-import Navbar from './components/layout/Navbar';
+
+import Navbar from './components/layout/tempNavbar';
 import Footer from './components/layout/Footer';
 
 // Pages
